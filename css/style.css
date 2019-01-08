@@ -3,6 +3,7 @@ body{
 /*    background: white;*/
     background: #d5dfdf;
     background: #e8eded;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .container{
@@ -163,7 +164,6 @@ ul {
   background: #fff;
   border-radius: 8px;
 }
-
 
 
 
