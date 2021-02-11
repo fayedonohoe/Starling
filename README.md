@@ -1,2 +1,4 @@
 # Starling
-Web Design for a Department Store
+A simple design for a Department Store website.
+
+fayedonohoe.github.io/starling/
